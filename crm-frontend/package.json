@@ -1,0 +1,14 @@
+{
+  "name": "crm-consumer",
+  "version": "1.0.0",
+  "main": "consumer.js",
+  "scripts": {
+    "start": "node consumer.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.4.3",
+    "node-fetch": "^2.7.0",
+    "redis": "^4.6.14"
+  }
+}
